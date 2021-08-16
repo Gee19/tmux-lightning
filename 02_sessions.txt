@@ -1,0 +1,20 @@
+centre vcentre
+
+% Getting started
+
+* apt install tmux
+
+* Typing the `tmux` command will spawn a tmux server and automatically attach to a new session
+
+    ~ tmux ls ~
+    ~ tmux a -t <ID/NAME> ~
+
+* Within a session, you now have the access to the tmux ~prefix~ key which defaults to ~ctrl + b~
+
+* You can attach and detach from sessions without disrupting running applications
+
+    ~ <prefix> + d~
+
+* Cycle through sessions with ~<prefix> + (~ or ~<prefix> + )~
+
+* If you need help you can always press: ~<prefix> + ?~

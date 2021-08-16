@@ -1,0 +1,13 @@
+centre
+
+% Panes
+
+* Each window can have many splits, normally called 'panes'
+
+    ~ tmux split-window -h ~
+
+* Gets much more powerful as you customize keybindings
+
+* Switch with ~<ctrl> + hjkl~
+
+* Create with ~<prefix> + ctrl-hjkl~

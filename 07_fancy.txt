@@ -1,0 +1,15 @@
+centre
+
+% Everything you do can be described with a command
+
+* You know what that means..
+
+    ~ Everything is scriptable ~
+
+* Create new split, run command, exit
+
+    ~ tmux splitw -h -c "/home/dev/dotfiles/" "touch yolo.txt" ~
+
+* Fancier
+    ~ tmux send-keys -t "main:3" inot_bad.jpg ~
+

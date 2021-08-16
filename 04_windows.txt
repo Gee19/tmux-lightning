@@ -1,0 +1,11 @@
+centre
+
+% TMUX Windows
+
+* Each session can have many windows
+
+* Overview with ~<prefix> + w~
+
+* Create new windows with ~tmux new-window~ or ~<prefix> + c~
+
+* Switch between them with ~<prefix> + n~ or ~<prefix> + p~

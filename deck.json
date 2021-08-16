@@ -1,0 +1,12 @@
+{
+  "header": {
+    "centre": "TMUXIN"
+  },
+  "footer": {
+    "left": "Jordan Haine",
+    "right": "\u2295 SC"
+  },
+  "fade": {
+    "delay": 15
+  }
+}

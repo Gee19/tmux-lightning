@@ -1,0 +1,18 @@
+centre vcentre
+
+% Links, references & other cool stuff
+
+The Tao of TMUX
+* https://leanpub.com/the-tao-of-tmux/read
+
+Intro into TMUX by ThePrimeagen
+* https://www.youtube.com/watch?v=NZO8KjNbwJk
+
+Plugins (don't feel like these are necessary, just check em)
+* https://github.com/tmux-plugins/tmux-prefix-highlight
+* https://github.com/tmux-plugins/tmux-open
+* https://github.com/tmux-plugins/tmux-copycat
+* https://github.com/tmux-plugins/tmux-resurrect
+* https://github.com/tmux-plugins/tmux-continuum
+* https://github.com/tpope/vim-tbone
+* https://github.com/Gee19/vim-gbone

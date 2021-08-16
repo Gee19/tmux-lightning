@@ -1,0 +1,11 @@
+centre
+
+% TMUX Sessions cont.
+
+* Create new sessions, be careful trying to nest sessions
+
+    ~ tmux new-session -d -s "yolo" ~
+
+* You can even attach and detach to remote sessions over ssh
+
+    ~ ssh <remote host> -t tmux attach-session ~

@@ -1,0 +1,13 @@
+centre vcentre
+
+% TMUX - Terminal Multiplexer
+
+* What does that even mean?
+
+* Multitask inside the terminal, run multiple applications
+
+* Have multiple command lines (pane) in the same window
+
+* Have multiple windows (window) in the workspace (session)
+
+* Switch between multiple workspaces, like virtual desktops

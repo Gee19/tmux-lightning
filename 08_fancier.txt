@@ -1,0 +1,15 @@
+centre vcentre
+
+% Come with me, and you'll be, in a world of pure imagination
+
+The possibilities are endless! For example:
+
+There is an awesome plugin that provides basic tmux support for vim: ~https://github.com/tpope/vim-tbone~
+
+Using stuff mentioned in this talk, I was able to create a simple wrapper for tbone that gave the following:
+  * Language Agnostic REPL
+  * Easy way to define custom test commands & mappings
+
+All from within vim and simply interacting with an adjacent tmux pane
+
+Check it out if you want: ~ https://github.com/Gee19/vim-gbone ~

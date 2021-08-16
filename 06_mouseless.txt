@@ -1,0 +1,20 @@
+centre
+
+% Going full mouseless
+
+* Copy mode, select text, open links, scrollback buffer & more.
+
+    Enter copy mode: ~<prefix> + [~
+    Scroll: ~hjkl~
+    Copy: ~y~
+    Paste: ~<prefix> + ]~
+    Exit: ~q~
+
+* Plugins to extend this of course
+
+  ~tmux-plugins/tmux-open~
+  ~tmux-plugins/tmux-copycat~
+
+Examples:
+* Grab filename from git status: ~<prefix> + ] + ctrl-g~
+* Grab SHA hash from git log: ~<prefix> + alt-h~
