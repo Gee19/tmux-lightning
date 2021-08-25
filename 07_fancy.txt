@@ -8,8 +8,8 @@ centre
 
 * Create new split, run command, exit
 
-    ~ tmux splitw -h -c "/home/dev/dotfiles/" "touch yolo.txt" ~
+    ~ tmux splitw -h "touch yolo.txt" ~
 
 * Fancier
-    ~ tmux send-keys -t "main:3" inot_bad.jpg ~
+    ~ tmux send-keys -t "talk:2" inot_bad.jpg ~
 
